@@ -37,4 +37,6 @@ data and visualization by plotting some data.<br />
 ## **Contact**
 ---
 * **Email:** md.toyeb@g.bracu.ac.bd
+* **Phone:** +8801853637400, +8801914211414
+* **LinkedIn:** [https://www.linkedin.com/in/aat-shanto/](https://www.linkedin.com/in/aat-shanto/)
 * **Github:** [https://github.com/Schrodinger-sCat](https://github.com/Schrodinger-sCat)
