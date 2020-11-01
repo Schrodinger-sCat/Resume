@@ -5,7 +5,7 @@ url: ""
 resume_url: "Resume.pdf"
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
